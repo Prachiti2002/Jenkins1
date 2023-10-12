@@ -2,7 +2,7 @@
 
 
 print("Hello World")
-def abc(name):
-    print("HEllo "+name)
+def abc(name,srn):
+    print("HEllo "+name +" "+srn)
 
-abc("pqr")
+abc("pqr","srn")
